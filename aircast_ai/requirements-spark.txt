@@ -1,0 +1,3 @@
+# OPTIONAL: only needed for src/pyspark_processing.py
+# Also requires Java (JDK 17 recommended) and the JAVA_HOME environment variable.
+pyspark>=3.5
